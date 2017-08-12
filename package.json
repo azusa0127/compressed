@@ -1,0 +1,12 @@
+{
+  "name": "compressed",
+  "version": "1.0.0",
+  "description": "a tiny JSON compression lib with great power.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["async", "json", "compress", "zip", "unzip"],
+  "author": "Phoenix Song (github.com/azusa0127)",
+  "license": "MIT"
+}
